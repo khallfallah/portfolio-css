@@ -98,10 +98,18 @@ h4{
     margin-top: 3.5rem;
 }
 .social img{
-    margin right: 4rem;
+    margin-right: 4rem;
     width: 3rem;
     transition: 0.4s;
 }
 .social img:hover{
     transform: scale(1.2);
+}
+.shape {
+    width:400px;
+    height:400px;
+}
+.container-txt{
+    display: flex;
+    justify-self: space-between;
 }
